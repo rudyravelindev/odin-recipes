@@ -1,0 +1,15 @@
+html {
+  background-color: blanchedalmond;
+}
+
+body {
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+}
+.photo {
+  width: 720px;
+  height: auto;
+  text-align: center;
+}
